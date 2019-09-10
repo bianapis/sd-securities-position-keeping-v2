@@ -1,0 +1,29 @@
+{
+  "securitiesPositionLogInitiateActionReference" : "SPLIAR709656",
+  "securitiesPositionLogInstanceStatus" : "securitiesPositionLogInstanceStatus",
+  "securitiesPositionLogInstanceReference" : "SPLIR767355",
+  "cRSecuritiesPositionLogInstanceRecord" : {
+    "securitiesPositionLogInstrumentProfile" : "securitiesPositionLogInstrumentProfile",
+    "initiationDate" : "09-22-2018",
+    "securitiesPositionLogInstrumentRecord" : {
+      "securitiesInstrumentReference" : "758718",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securitiesPositionLimits" : {
+        "securitiesPositionLimitType" : "securitiesPositionLimitType",
+        "securitiesPositionLimitSettings" : "securitiesPositionLimitSettings",
+        "securitiesPositionLimitValue" : "securitiesPositionLimitValue"
+      },
+      "securitiesInstrumentType" : "securitiesInstrumentType",
+      "securitiesAmountBlock" : {
+        "amount" : "USD 250",
+        "securitiesAmountBlockType" : "securitiesAmountBlockType",
+        "priority" : "priority"
+      }
+    },
+    "securitiesTransactionLogType" : "securitiesTransactionLogType",
+    "status" : "status"
+  },
+  "securitiesPositionLogInitiateActionRecord" : {}
+}

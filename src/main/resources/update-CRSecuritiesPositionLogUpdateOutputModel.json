@@ -1,0 +1,31 @@
+{
+  "cRSecuritiesPositionLogInstanceRecord" : {
+    "productInstanceReference" : "762077",
+    "securitiesPositionLogInstrumentProfile" : "securitiesPositionLogInstrumentProfile",
+    "initiationDate" : "09-22-2018",
+    "customerReference" : "728052",
+    "counterpartyReference" : "720204",
+    "securitiesPositionLogInstrumentRecord" : {
+      "securitiesInstrumentReference" : "700631",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securitiesPositionLimits" : {
+        "securitiesPositionLimitType" : "securitiesPositionLimitType",
+        "securitiesPositionLimitSettings" : "securitiesPositionLimitSettings",
+        "securitiesPositionLimitValue" : "securitiesPositionLimitValue"
+      },
+      "securitiesInstrumentType" : "securitiesInstrumentType",
+      "securitiesAmountBlock" : {
+        "amount" : "USD 250",
+        "securitiesAmountBlockType" : "securitiesAmountBlockType",
+        "priority" : "priority"
+      }
+    },
+    "securitiesTransactionLogType" : "securitiesTransactionLogType",
+    "status" : "status"
+  },
+  "updateResponseRecord" : {},
+  "securitiesPositionLogUpdateActionTaskRecord" : {},
+  "securitiesPositionLogUpdateActionTaskReference" : "SPLUATR771441"
+}

@@ -1,0 +1,1 @@
+# Securities Position Keeping Service Domain v2.0

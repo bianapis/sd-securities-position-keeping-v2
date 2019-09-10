@@ -1,0 +1,9 @@
+{
+  "transactionCaptureCaptureRecordReference" : "TCCRR755571",
+  "transactionCaptureCaptureActionTaskReference" : "TCCATR784366",
+  "transactionCaptureCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {},
+  "transactionCaptureInstanceRecord" : {
+    "securitiesPostingValueDate" : "09-22-2018"
+  }
+}

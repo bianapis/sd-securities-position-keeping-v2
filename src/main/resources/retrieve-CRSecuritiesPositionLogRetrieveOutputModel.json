@@ -1,0 +1,41 @@
+{
+  "securitiesPositionLogRetrieveActionResponse" : "securitiesPositionLogRetrieveActionResponse",
+  "securitiesPositionLogInstanceReportRecord" : {
+    "securitiesPositionLogInstanceReportData" : "securitiesPositionLogInstanceReportData",
+    "securitiesPositionLogInstanceReport" : {},
+    "securitiesPositionLogInstanceReportType" : "securitiesPositionLogInstanceReportType"
+  },
+  "securitiesPositionLogInstanceAnalysis" : {
+    "securitiesPositionLogInstanceAnalysisReport" : {},
+    "securitiesPositionLogInstanceAnalysisData" : "securitiesPositionLogInstanceAnalysisData",
+    "securitiesPositionLogInstanceAnalysisReportType" : "securitiesPositionLogInstanceAnalysisReportType"
+  },
+  "cRSecuritiesPositionLogInstanceRecord" : {
+    "productInstanceReference" : "764584",
+    "securitiesPositionLogInstrumentProfile" : "securitiesPositionLogInstrumentProfile",
+    "initiationDate" : "09-22-2018",
+    "customerReference" : "705287",
+    "counterpartyReference" : "702084",
+    "securitiesPositionLogInstrumentRecord" : {
+      "securitiesInstrumentReference" : "729154",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securitiesPositionLimits" : {
+        "securitiesPositionLimitType" : "securitiesPositionLimitType",
+        "securitiesPositionLimitSettings" : "securitiesPositionLimitSettings",
+        "securitiesPositionLimitValue" : "securitiesPositionLimitValue"
+      },
+      "securitiesInstrumentType" : "securitiesInstrumentType",
+      "securitiesAmountBlock" : {
+        "amount" : "USD 250",
+        "securitiesAmountBlockType" : "securitiesAmountBlockType",
+        "priority" : "priority"
+      }
+    },
+    "securitiesTransactionLogType" : "securitiesTransactionLogType",
+    "status" : "status"
+  },
+  "securitiesPositionLogRetrieveActionTaskReference" : "SPLRATR745566",
+  "securitiesPositionLogRetrieveActionTaskRecord" : {}
+}

@@ -1,0 +1,10 @@
+{
+  "updateResponseRecord" : {},
+  "transactionCaptureUpdateActionTaskRecord" : {},
+  "transactionCaptureInstanceRecord" : {
+    "securitiesPostingTransaction" : "securitiesPostingTransaction",
+    "securitiesPostingType" : "securitiesPostingType",
+    "securitiesPostingValueDate" : "09-22-2018"
+  },
+  "transactionCaptureUpdateActionTaskReference" : "TCUATR767794"
+}
